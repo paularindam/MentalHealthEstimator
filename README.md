@@ -3,6 +3,4 @@ This project tries to address the issue of building a predictive system for iden
 
 The columns for the fcb.npy file is 'post_id','time','message','num_likes','num_comments','university','country'. 
 
-The sample Yaks contains only the text information. 
-
 
